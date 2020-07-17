@@ -1,0 +1,3 @@
+POSTGRES_USER=gogo_postgres_user
+POSTGRES_PASSWORD=gogo_postgres_pass
+POSTGRES_DB=gogo_postgres
